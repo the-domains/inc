@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[INC]]></title>
         <description><![CDATA[INC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 08:04:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 12:25:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[INCARE]]></title>
+            <description><![CDATA[<p>Fundada en Málaga por los Doctores Rocío AragonésManzanares y Pablo RojasRomán en 2005, INCARE es una empresa de Servicios Médicos Especializados en las áreas de Medicina Intensiva y Medicina deUrgencias.</p>]]></description>
+            <link>https://thegrid.ai/inc/incare/index.html</link>
+            <guid isPermaLink="false">588d3898-db04-4779-977a-d8b2fcbd5180</guid>
+            <pubDate>Fri, 03 Jun 2016 12:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[INCARE]]></title>
             <description><![CDATA[<article><h1>INCARE</h1><p></p></article>]]></description>
-            <link>undefinedincare/index.html</link>
+            <link>https://thegrid.ai/inc/incare/index.html</link>
             <guid isPermaLink="false">51a6c9ae-69ab-44bc-82f1-7535bd1f79b6</guid>
             <pubDate>Mon, 23 May 2016 08:04:33 GMT</pubDate>
         </item>
